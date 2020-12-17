@@ -8,6 +8,8 @@ and rename to application.properties and set the emailaddresslogin and password 
 
 You will also need to install Java and Maven if not already on your machine
 
+Choose to import project from external model using Maven, project SDK should be JDK 11 and then download Sources and documentation for Maven.
+
 I have used WebDriverManager so there is no need to download Chromedriver separately as this should do it for you
 
 ###### Running tests
